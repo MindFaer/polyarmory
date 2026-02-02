@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "polyarmory",
+  "version": "1.0.0",
+  "name": "Polyarmory",
+  "description": "Adds better combat support to various mods
+",
+  "authors": [
+    "MindFaer"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/polyarmory/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mindfaer.fabric.ExampleModFabric"
+    ],
+    "client": [
+      "com.mindfaer.fabric.client.ExampleModFabricClient"
+    ]
+  },
+  "mixins": [
+    "polyarmory.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.8",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

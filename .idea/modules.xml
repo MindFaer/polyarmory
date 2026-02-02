@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/polyarmory.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/polyarmory.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/polyarmory.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/polyarmory.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/polyarmory.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/polyarmory.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/polyarmory.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/polyarmory.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/polyarmory.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/polyarmory.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/polyarmory.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/polyarmory.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/polyarmory.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/polyarmory.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
