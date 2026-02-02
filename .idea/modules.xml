@@ -7,8 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/polyarmory.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/polyarmory.common.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/polyarmory.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/polyarmory.fabric.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/polyarmory.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/polyarmory.fabric.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/polyarmory.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/polyarmory.neoforge.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/polyarmory.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/polyarmory.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/polyarmory.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/polyarmory.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/polyarmory.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/polyarmory.forge.test.iml" />
     </modules>
   </component>
 </project>
